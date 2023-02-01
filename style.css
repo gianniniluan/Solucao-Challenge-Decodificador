@@ -2,14 +2,16 @@
     background: #E5E5E5;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 22px;
     line-height: 150%;
 }
 
-.logo {
-    margin-left: 10px;
-    padding-top: 10px;
-    width:2%;
+.logoAlura {
+    position: absolute;
+    width: 255px;
+    height: 64px;
+    left: 592px;
+    top: 60px;
 }
 
 main {
@@ -19,28 +21,33 @@ main {
 }
 
 .text-area {
-    border: none;
-    color: #0A3871;
-    margin-top: 90px;
-    text-transform: lowercase;
+    position: absolute;
+    border: 3px solid #0073ff;
+    border-radius: 5px;
+    width: 440px;
+    height: 362px;
+    left: 100px;
+    top: 179px;    
 }
-::placeholder { color: #0A3871; }
-  .text-area:focus {
+
+::placeholder { color: #acacac; }
+  .text-area:focus {    
       outline: none;
     }
 
 .mensagem {
-    background: white;
-    background-image: url("imagens/boneco.png");
+    background-image: url("imagens/code.svg");
     background-repeat: no-repeat;
-    border: none;
-    border-radius: 24px;
-    color: #0A3871;
-    margin-left: 98px;
-    margin-top: 20px;
-    padding-left: 20px;
-    position: fixed;
+    background-position: center;
+    position: absolute;
+    border: 3px solid #0073ff;
+    border-radius: 5px;
+    width: 450px;
+    height: 355px;
+    left: 890px;
+    top: 179px;
 }
+
 .mensagem:focus {
     outline: none;
 }
@@ -51,41 +58,35 @@ main {
 }
 
 .btn-desencriptar {
-    background: #D8DFE8;
-    border: 1px solid #0A3871;
-    border-radius: 24px;
-    color: #0A3871;
-    cursor: pointer;
-    height: 67px;
-    margin-left: 30px;
-    width: 328px;
+    background-color: #AFE7A6;
+    border: 3px solid #608962;
+    border-radius: 10px;
+    position: absolute;
+    width: 236px;
+    height: 60px;
+    left: 597px;
+    top: 360px;
 }
 
 .btn-encriptar {
-    background-color: #0A3871;
-    border: 1px solid #0A3871;
-    border-radius: 24px;
-    color: white;
-    cursor: pointer;
-    height: 67px;
-    width: 328px;
-}
-
-.btn-copiar {
-    border: 1px solid #0A3871;
-    border-radius: 24px;
-    color: #0A3871;
-    cursor: pointer;
-    height: 67px;
-    margin-left: 108px;
-    margin-top: 402px;
+    background-color: #FFCACA;
+    border: 3px solid #A15C5C;
+    border-radius: 10px;
     position: absolute;
-    width: 336px;
+    width: 199px;
+    height: 60px;
+    left: 616px;
+    top: 265px; 
 }
 
 .informacao {
     color: #495057;
     font-size:18px;
+    position: absolute;
+    width: 355px;
+    height: 22px;
+    left: 100px;
+    top: 546px;
 }
 
 
