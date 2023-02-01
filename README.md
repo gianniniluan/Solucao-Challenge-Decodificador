@@ -1,16 +1,5 @@
 # Challenge ONE | Lógica de Programação | Decodificador de texto
 
-<p align="center" >
-     <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673876-2c51fc09-5bed-48c0-aad3-97fc7fa64d1d.png">
-</p>
-
-### Seja bem vindo ao repositório do Decodificador de texto! Passos fundamentais:
-
-#### Marque esse projeto com uma estrela ⭐
-#### Siga as instruções das aulas e conteúdos 📚
-#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/challenge-one-logica) 📃
----
-
 ## Como baixar o repositório?
 ---
 Para realizar o download do arquivo: Clique no botão verde com nome "Code" na parte superior direita do repositório, e em seguida clicar em Download zip. Em seguida você pode abrir o código no seu editor de código favorito.
@@ -46,8 +35,6 @@ Durante a execução da nossa live, utilizamos alguns métodos de JavaScript e p
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
 Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4**" dependendo de qual turma você pertence.
-
-![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
 ## Como realizar a entrega final do meu projeto?
 ---
